@@ -1,0 +1,1 @@
+ldapsearch "uid=z*" | grep cn: | sort -i -d -r | sed "s/cn: //"

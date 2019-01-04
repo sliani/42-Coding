@@ -1,0 +1,5 @@
+Credentials cache: API:3CBDDD96-22BF-4C66-8257-6CC7224CC98C
+        Principal: sliani@42.FR
+
+  Issued                Expires               Principal
+Oct 13 20:06:00 2015  Oct 20 20:05:57 2015  krbtgt/42.FR@42.FR
